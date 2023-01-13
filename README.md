@@ -4,7 +4,7 @@
 
 **Dataset Folder Name:** ```./eacl_sample```
 
-**Dataset csv file:** ```EACL_sample_data.csv```
+**Dataset csv file:** ```sample_data.csv```
 
 **Name:** Name of data sample
 
@@ -24,4 +24,4 @@
 
 ### Proposed paper code:
 
-```EACL_FINAL_CODE.py```
+```FINAL_CODE.py```
