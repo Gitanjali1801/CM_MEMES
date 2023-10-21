@@ -1,4 +1,4 @@
-# *Don’t you need a license to be that ugly?* : An End-to-End Multi-task Framework for Offensive Memes Identification via Contextual Knowledge and Fine-grained Information
+# *CM-Off-Meme:* Code-Mixed Hindi-English Offensive Meme Detection with Multi-Task Learning by Leveraging Contextual Knowledge
 
 ### Dataset Description:
 
