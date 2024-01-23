@@ -2,7 +2,7 @@
 
 ### Dataset Description:
 
-**Dataset Folder Name:** ```./eacl_sample```
+**Dataset Folder Name:** ```./LREC_COLING_memes```
 
 **Dataset csv file:** ```sample_data.csv```
 
