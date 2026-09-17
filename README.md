@@ -32,7 +32,7 @@ This repository contains the code and dataset for our paper titled CM-Off-Meme: 
 
 To request access to the entire CM_OFF Dataset, follow the steps shown below:
    1. Fill out the agreement form linked [here]( https://forms.gle/WHs8mF4UBc7KrGud6).
-   2. Forward the Google form's confirmation email to [gitanjalisingh228@gmail.com](gitanjalisingh228@gmail.com) or [gitanjali_2021cs03@iitp.ac](gitanjali_2021cs03@iitp.ac) in requesting access to the dataset.
+   2. Forward the Google form's confirmation email to [gitanjalisingh228@gmail.com](gitanjalisingh228@gmail.com) or [gitanjali_2021cs03@iitp.ac.in](gitanjali_2021cs03@iitp.ac.in) to request access to the dataset.
    
    
 
